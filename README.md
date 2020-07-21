@@ -18,7 +18,7 @@ or <a href="mailto:contact@anteste.yo.fr"><b>email</b></a> me
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anteste&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Anteste's Github Stats">
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
+[![HitCount](http://hits.dwyl.com/Anteste/{project}.svg)](http://hits.dwyl.com/Anteste/{project})
 
 <i>Follow me around the web:</i><br>
 
