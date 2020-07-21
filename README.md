@@ -20,7 +20,7 @@ or <a href="mailto:contact@anteste.yo.fr"><b>email</b></a> me
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://anteste.yo.fr/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anteste&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Anteste's Github Stats" />
 </a>
 
