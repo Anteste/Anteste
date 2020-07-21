@@ -19,12 +19,7 @@ or <a href="mailto:contact@anteste.yo.fr"><b>email</b></a> me
 </div>
 
 <div align="center">
-  
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<a href="https://github.com/Anteste">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anteste&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Anteste's Github Stats" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anteste&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Anteste's Github Stats" />
 </a>
